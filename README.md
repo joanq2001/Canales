@@ -13,8 +13,8 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b12480
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2020/07/LOGOOTVCOLORES.png" ,OROMAR TV 
 http://190.52.205.146/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg" ,FOX
-https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=5P3enHGDbAmNb51IdedP2g&e=1603326415
+https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8
 #EXTINF:-1 tvg-logo:"https://i.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg" ,TNT 
 https://ul.cdn946.net:8443/hls/14zot7ix1j24gn6.m3u8
 EXTINF:-1 tvg-log:"https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" ,HBO2 
-https://u86715.cdn884.net:8443/hls/w4r75r3i9.m3u8?s=YfXv5MoEaWQRbQm8E1LaQQ&e=1603329958
+https://u86715.cdn884.net:8443/hls/w4r75r3i9.m3u8
